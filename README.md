@@ -95,9 +95,5 @@ The application is driven by a text-based menu (`Main.java`) and uses core OOP p
 
 ## Author
 
-* Your Name
-* Advisor: Dr. XYZ
+* Tony Dawra
 
----
-
-*CSIS216 – Pharmacy Management Project*
